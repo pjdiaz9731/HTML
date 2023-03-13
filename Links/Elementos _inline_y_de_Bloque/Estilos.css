@@ -1,0 +1,23 @@
+h1{
+
+    color: fuchsia;
+    text-align: center;
+}
+
+h2{
+    color: purple;
+}
+
+p{
+
+    color: aquamarine
+    ;
+}
+
+div{
+
+
+    border: 10px solid purple;
+    background-color: aqua;
+    text-align: center;
+}
